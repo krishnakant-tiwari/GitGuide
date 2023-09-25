@@ -12,7 +12,7 @@
 8. git config --list >> To view/confirm user and email
 9. git clone link_of_repository >> To clone repository from github to local machine
 10. git status >> To display the code status
-11. There are 4-Types of files (a) Untracked files >> Before add (b) Modified files >> Changed files (c) Staged filse >> After add (d) Unmodified files >> Unchanged files
+11. There are 4-Types of files (a) Untracked files >> Before add (b) Modified files >> Changed files (c) Staged files >> After add (d) Unmodified files >> Unchanged files
 12. git add file_name >> To add a single changed files
 13. git add . >> To add all changed files
 14. git commit -m "commit_message" >> To commit changes with a message
