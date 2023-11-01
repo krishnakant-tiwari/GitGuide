@@ -24,3 +24,6 @@
 20. git branch -M >> To rename the branch
 21. git push origin main >> To push into github
 22. git push -u origin main >> Run this command and then we can write only git push each time to push the code
+23. git checkout branch_name >> To nevigate in branches
+24. git checkout -b new_branch_name >> To create new branch
+25. git branch -d branch_name >> To delete branch 
