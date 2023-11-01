@@ -27,3 +27,5 @@
 23. git checkout branch_name >> To nevigate in branches
 24. git checkout -b new_branch_name >> To create new branch
 25. git branch -d branch_name >> To delete branch 
+26. git diff branch_name >> To compare changes with different branch
+27. git merge branch_bame >> To merge the branch with another branch 
